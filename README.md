@@ -1,8 +1,9 @@
 # The Cost of Losing Talent
 ### Employee Attrition & Retention Analysis
 ## Dashboard Preview
+## Dashboard Preview
 
-![Employee Attrition Dashboard](dashboard.png)
+![Employee Attrition Dashboard](Presentation1.png)
 ## Project Overview
 This project examines employee attrition patterns to identify workforce retention risks and provide actionable, data-driven recommendations for management.
 
